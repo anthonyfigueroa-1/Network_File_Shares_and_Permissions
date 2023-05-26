@@ -14,7 +14,7 @@ This tutorial outlines how to setup network file sharing and permissions and how
 
 <h2>Prerequisites<h2>
 
-- Have already looked through and done [Configuring Active Directory within Azure VMs](https://github.com/anthonyfigueroa-1/ActiveDirectory)
+- Have already looked through and done [configuring active directory within azure VMs.](https://github.com/anthonyfigueroa-1/ActiveDirectory)
 
 <h2>Steps</h2>
 
